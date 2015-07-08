@@ -5,7 +5,7 @@ I had a folder in my system in which files of multiple types were there (.txt , 
 
 Please note that you need to setup Python on your system before all this can be done. For that, follow these steps:
 
-1.) Download the Python from here; https://www.python.org/downloads/
+1.) Download the Python from here (1). 
 (I'll prefer 2.7 as it's a stable build)
 
 2.) Install it. Go to C:( where windows reside and Get the path to your pythn folder (It'll be something like C:\Python27)
@@ -17,4 +17,16 @@ Please note that you need to setup Python on your system before all this can be 
 
 Here we have run our first python program. 
 
+The spython script written makes use of the operating system module named "os" which allows us to use OS dependant functionalities. 
+
 The screenshots in accordance with the initial situation and the one after running the script are provided. Save the code with extension .py and simply run like any other python program.
+
+
+#References:
+
+(1). https://www.python.org/downloads/
+
+(2). https://docs.python.org/2/library/os.html
+
+(3). http://ekuzworld6.blogspot.in/2015/05/managing-clutter-cakewalk.html
+
